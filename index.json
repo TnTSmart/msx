@@ -1,5 +1,6 @@
+json
 {
-  "name": "TnT-TV",
+  "name": "Мой Кастомный Стартер",
   "version": "1.0.0",
   "icon": "https://benzac.de",
   "menu": [
@@ -8,7 +9,7 @@
       "icon": "https://benzac.de",
       "title": "Онлайн Кинотеатр Lampa",
       "properties": {
-        "url": "https://tenet.tv"
+        "url": "https://lampa.mx"
       }
     },
     {
