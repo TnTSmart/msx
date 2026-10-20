@@ -2,11 +2,6 @@
   "menu": [
     {
       "type": "button",
-      "title": "Lampa",
-      "action": "link:https://lampa.mx"
-    },
-    {
-      "type": "button",
       "title": "YouTube",
       "action": "link:https://youtube.com"
     }
