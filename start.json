@@ -1,23 +1,7 @@
 {
-  "name": "Мой Кастомный Стартер",
+  "name": "Мой личный портал MSX",
   "version": "1.0.0",
-  "icon": "https://benzac.de",
-  "menu": [
-    {
-      "type": "link",
-      "icon": "https://benzac.de",
-      "title": "Онлайн Кинотеатр Lampa",
-      "properties": {
-        "url": "https://lampa.mx"
-      }
-    },
-    {
-      "type": "link",
-      "icon": "https://benzac.de",
-      "title": "Информационный Портал MSX",
-      "properties": {
-        "url": "http://msx.benzac.de/info/"
-      }
-    }
-  ]
+  "parameter": {
+    "menu": "https://tntsmart.github.io/msx/data/menu.json"
+  }
 }
