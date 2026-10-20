@@ -4,19 +4,19 @@
       "items": [
         {
           "type": "button",
-          "layout": "0,0,2,1",
+          "layout": "0,0,1,1",
           "title": "SpeedTest",
           "action": "link:https://speedtest.net"
         },
         {
           "type": "button",
-          "layout": "2,0,2,1",
-          "title": "Tenet.tv",
+          "layout": "2,0,1,1",
+          "title": "TeNeT",
           "action": "link:https://tenet.tv/portal"
         },
         {
           "type": "button",
-          "layout": "4,0,2,1",
+          "layout": "4,0,1,1",
            "title": "LIFT",
            "action": "link:http://liftw.ws/"
          }
