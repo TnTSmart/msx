@@ -13,7 +13,13 @@
           "layout": "2,0,2,1",
           "title": "Tenet.tv",
           "action": "link:https://tenet.tv"
-        }
+        },
+        {
+          "type": "button",
+          "layout": "4,0,2,1",
+           "title": "LIFT",
+           "action": "link:http://msx.cool"
+         }
       ]
     }
   ]
