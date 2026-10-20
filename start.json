@@ -1,28 +1,7 @@
 {
   "name": "Мой личный портал MSX",
   "version": "1.0.0",
-  "type": "object",
-  "headline": "Главное меню",
-  "menu": [
-    {
-      "type": "item",
-      "icon": "live-tv",
-      "label": "Моё IPTV",
-      "data": "https://benzac.de"
-    },
-    {
-      "type": "item",
-      "icon": "video-library",
-      "label": "Кинотеатр Lampa",
-      "data": "http://lampa.mx"
-    },
-    {
-      "type": "item",
-      "icon": "info",
-      "label": "Инфо",
-      "response": {
-        "text": "Стартер успешно запущен с GitHub Pages!"
-      }
-    }
-  ]
+  "parameter": {
+    "menu": "https://tntsmart.github.io/msx/data/menu.json"
+  }
 }
