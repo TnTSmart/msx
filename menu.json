@@ -4,13 +4,13 @@
       "items": [
         {
           "type": "button",
-          "layout": "0,0,4,1",
+          "layout": "0,0,2,1",
           "title": "SpeedTest",
           "action": "link:https://speedtest.net"
         },
         {
           "type": "button",
-          "layout": "4,1,4,1",
+          "layout": "0,1,2,1",
           "title": "Tenet.tv",
           "action": "link:https://tenet.tv"
         }
