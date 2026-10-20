@@ -1,39 +1,24 @@
 {
   "pages": [
     {
-      "align": "center",
-      "valign": "center",
-      "grid": {
-        "width": 4,
-        "height": 1
-      },
       "items": [
         {
           "type": "button",
+          "layout": "0,0,2,1",
           "title": "SpeedTest",
-          "action": "link:https://speedtest.net",
-          "properties": {
-            "title:align": "center",
-            "title:valign": "center"
-          }
+          "action": "link:https://speedtest.net"
         },
         {
           "type": "button",
+          "layout": "2,0,2,1",
           "title": "TeNeT",
-          "action": "link:https://tenet.tv",
-          "properties": {
-            "title:align": "center",
-            "title:valign": "center"
-          }
+          "action": "link:https://tenet.tv/portal"
         },
         {
           "type": "button",
+          "layout": "4,0,2,1",
           "title": "LIFT",
-          "action": "link:https://liftw.ws",
-          "properties": {
-            "title:align": "center",
-            "title:valign": "center"
-          }
+          "action": "link:https://liftw.ws"
         }
       ]
     }
