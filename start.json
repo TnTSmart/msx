@@ -1,7 +1,26 @@
 {
-  "name": "MSX",
-  "version": "1.0.0",
-  "parameter": {
-    "menu": "https://tntsmart.github.io/msx/data/menu.json"
-  }
+  "type": "object",
+  "headline": "Главное меню",
+  "menu": [
+    {
+      "type": "item",
+      "icon": "live-tv",
+      "label": "Моё IPTV",
+      "data": "https://benzac.de"
+    },
+    {
+      "type": "item",
+      "icon": "video-library",
+      "label": "Кинотеатр Lampa",
+      "data": "http://lampa.mx"
+    },
+    {
+      "type": "item",
+      "icon": "info",
+      "label": "О нас",
+      "response": {
+        "text": "Это мой личный стартер для Media Station X!"
+      }
+    }
+  ]
 }
