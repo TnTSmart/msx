@@ -1,7 +1,6 @@
 {
-  "name": "TnT - Smart - Test",
+  "name": "My Custom MSX Portal",
   "version": "1.0.0",
-  "parameter": {
-    "menu": "https://tntsmart.github.io/msx/data/menu.json"
-  }
+  "parameter": "content:https://tntsmart.github.io/msx/data/menu.json",
+  "welcome": "none"
 }
