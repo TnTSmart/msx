@@ -4,11 +4,9 @@
       "items": [
         {
           "type": "button",
+          "layout": "0,0,4,1",
           "title": "YouTube",
-          "action": "link:https://youtube.com",
-          "properties": {
-            "title:visible": true
-          }
+          "action": "link:https://youtube.com"
         }
       ]
     }
