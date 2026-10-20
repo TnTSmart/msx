@@ -5,14 +5,14 @@
         {
           "type": "button",
           "layout": "0,0,4,1",
-          "title": "YouTube",
-          "action": "link:https://youtube.com"
+          "title": "SpeedTest",
+          "action": "link:https://speedtest.net"
         },
         {
           "type": "button",
           "layout": "4,0,4,1",
-          "title": "Lampa",
-          "action": "link:https://lampa.mx"
+          "title": "Tenet.tv",
+          "action": "link:https://tenet.tv"
         }
       ]
     }
