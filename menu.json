@@ -19,7 +19,14 @@
           "layout": "4,0,2,1",
           "title": "LIFT",
           "action": "link:https://liftw.ws"
-        }
+        },
+        {
+          "type": "button",
+          "title": "Lampa",
+          "action": "link:https://lampa.mx",
+          "properties": 
+            
+          }
       ]
     }
   ]
