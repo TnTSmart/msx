@@ -10,7 +10,7 @@
         },
         {
           "type": "button",
-          "layout": "4,0,4,1",
+          "layout": "4,1,4,1",
           "title": "Tenet.tv",
           "action": "link:https://tenet.tv"
         }
