@@ -1,4 +1,6 @@
 {
+  "name": "Мой личный портал MSX",
+  "version": "1.0.0",
   "type": "object",
   "headline": "Главное меню",
   "menu": [
@@ -17,9 +19,9 @@
     {
       "type": "item",
       "icon": "info",
-      "label": "О нас",
+      "label": "Инфо",
       "response": {
-        "text": "Это мой личный стартер для Media Station X!"
+        "text": "Стартер успешно запущен с GitHub Pages!"
       }
     }
   ]
