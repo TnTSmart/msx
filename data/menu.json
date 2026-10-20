@@ -1,18 +1,18 @@
 {
-  "pages": [
+  "type": "object",
+  "headline": "Главное меню",
+  "menu": [
     {
-      "items": [
-        {
-          "type": "button",
-          "title": "Lampa",
-          "action": "link:https://lampa.mx"
-        },
-        {
-          "type": "button",
-          "title": "YouTube",
-          "action": "link:https://youtube.com"
-        }
-      ]
+      "type": "item",
+      "icon": "video-library",
+      "label": "Lampa",
+      "data": "http://lampa.mx"
+    },
+    {
+      "type": "item",
+      "icon": "video-library",
+      "label": "YouTube",
+      "data": "https://youtube.com"
     }
   ]
 }
