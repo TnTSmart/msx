@@ -3,13 +3,13 @@
     {
       "items": [
         {
+          "type": "button",
           "title": "Lampa",
-          "icon": "https://lampa.mx",
           "action": "link:https://lampa.mx"
         },
         {
+          "type": "button",
           "title": "YouTube",
-          "icon": "https://youtube.com",
           "action": "link:https://youtube.com"
         }
       ]
