@@ -1,1 +1,18 @@
-123
+{
+  "pages": [
+    {
+      "items": [
+        {
+          "title": "Lampa",
+          "icon": "https://lampa.mx",
+          "action": "link:https://lampa.mx"
+        },
+        {
+          "title": "YouTube",
+          "icon": "https://youtube.com",
+          "action": "link:https://youtube.com"
+        }
+      ]
+    }
+  ]
+}
