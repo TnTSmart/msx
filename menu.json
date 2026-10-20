@@ -1,25 +1,28 @@
 {
   "pages": [
     {
+      "align": "center",
+      "valign": "center",
+      "grid": {
+        "width": 3,
+        "height": 1
+      },
       "items": [
         {
           "type": "button",
-          "layout": "0,0,1,1",
           "title": "SpeedTest",
           "action": "link:https://speedtest.net"
         },
         {
           "type": "button",
-          "layout": "2,0,1,1",
           "title": "TeNeT",
-          "action": "link:https://tenet.tv/portal"
+          "action": "link:https://tenet.tv"
         },
         {
           "type": "button",
-          "layout": "4,0,1,1",
-           "title": "LIFT",
-           "action": "link:http://liftw.ws/"
-         }
+          "title": "LIFT",
+          "action": "link:https://liftw.ws"
+        }
       ]
     }
   ]
