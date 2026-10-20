@@ -1,18 +1,28 @@
 {
-  "type": "object",
-  "headline": "Главное меню",
+  "headline": "Тестовое меню MSX",
   "menu": [
     {
-      "type": "item",
-      "icon": "video-library",
-      "label": "Lampa",
-      "data": "http://lampa.mx"
+      "icon": "info",
+      "label": "Приветственное сообщение",
+      "action": "info:Поздравляем! Ваше тестовое меню успешно загружено."
     },
     {
-      "type": "item",
-      "icon": "video-library",
-      "label": "YouTube",
-      "data": "https://youtube.com"
+      "icon": "movie",
+      "label": "Открыть онлайн-кинотеатр (Lampa)",
+      "action": "link:https://lampa.mx"
+    },
+    {
+      "type": "separator"
+    },
+    {
+      "icon": "play-circle-outline",
+      "label": "Тестовое видео (Big Buck Bunny)",
+      "action": "video:https://googleapis.com"
+    },
+    {
+      "type": "settings",
+      "icon": "settings",
+      "label": "Настройки MSX"
     }
   ]
 }
