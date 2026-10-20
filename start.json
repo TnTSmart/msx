@@ -1,15 +1,9 @@
 {
-  "name": "Мой личный портал MSX",
+  "name": "Мой портал",
   "version": "1.0.0",
   "type": "object",
   "headline": "Главное меню",
   "menu": [
-    {
-      "type": "item",
-      "icon": "live-tv",
-      "label": "Моё IPTV",
-      "data": "https://benzac.de"
-    },
     {
       "type": "item",
       "icon": "video-library",
@@ -19,9 +13,9 @@
     {
       "type": "item",
       "icon": "info",
-      "label": "Инфо",
+      "label": "Проверка связи",
       "response": {
-        "text": "Стартер успешно запущен с GitHub Pages!"
+        "text": "Стартер работает отлично!"
       }
     }
   ]
