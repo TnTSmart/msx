@@ -1,4 +1,4 @@
 { "name": "TnT - Smart - Test",
   "version": "1.0.0", 
-  "parameter": "content:https://tntsmart.github.io/data/menu.json", 
+  "parameter": "content:https://tntsmart.github.io/menu.json", 
   "welcome": "none"}
