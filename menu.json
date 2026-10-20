@@ -4,24 +4,36 @@
       "align": "center",
       "valign": "center",
       "grid": {
-        "width": 3,
+        "width": 4,
         "height": 1
       },
       "items": [
         {
           "type": "button",
           "title": "SpeedTest",
-          "action": "link:https://speedtest.net"
+          "action": "link:https://speedtest.net",
+          "properties": {
+            "title:align": "center",
+            "title:valign": "center"
+          }
         },
         {
           "type": "button",
           "title": "TeNeT",
-          "action": "link:https://tenet.tv"
+          "action": "link:https://tenet.tv",
+          "properties": {
+            "title:align": "center",
+            "title:valign": "center"
+          }
         },
         {
           "type": "button",
           "title": "LIFT",
-          "action": "link:https://liftw.ws"
+          "action": "link:https://liftw.ws",
+          "properties": {
+            "title:align": "center",
+            "title:valign": "center"
+          }
         }
       ]
     }
