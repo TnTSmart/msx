@@ -1,9 +1,16 @@
 {
-  "menu": [
+  "pages": [
     {
-      "type": "button",
-      "title": "YouTube",
-      "action": "link:https://youtube.com"
+      "items": [
+        {
+          "type": "button",
+          "title": "YouTube",
+          "action": "link:https://youtube.com",
+          "properties": {
+            "title:visible": true
+          }
+        }
+      ]
     }
   ]
 }
