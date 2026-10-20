@@ -1,22 +1,6 @@
 {
-  "name": "Мой портал",
+  "name": "My Custom MSX Portal",
   "version": "1.0.0",
-  "type": "object",
-  "headline": "Главное меню",
-  "menu": [
-    {
-      "type": "item",
-      "icon": "video-library",
-      "label": "Кинотеатр Lampa",
-      "data": "http://lampa.mx"
-    },
-    {
-      "type": "item",
-      "icon": "info",
-      "label": "Проверка связи",
-      "response": {
-        "text": "Стартер работает отлично!"
-      }
-    }
-  ]
+  "parameter": "content:https://your-domain.com",
+  "welcome": "none"
 }
