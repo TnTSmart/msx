@@ -1,5 +1,5 @@
 { "name": "TnT - Smart - Test",
-  "icon": "ser.png",
+  "icon": "msx/ser.png",
   "version": "1.0.0", 
   "parameter": "content:https://tntsmart.github.io/msx/menu.json", 
   "welcome": "none"}
