@@ -7,7 +7,7 @@
         { "type": "default", "layout": "3,2,2,1", "alignment": "center", "title": "TeNeT", "action": "link:https://tenet.tv/portal" },
         { "type": "default", "layout": "5,2,2,1", "alignment": "center", "title": "LIFT", "action": "link:https://liftw.ws" },
         { "type": "default", "layout": "7,2,2,1", "alignment": "center", "title": "OTT", "action": "link:https://ott-play.com/f/" },
-       {"type": "default","layout": "9,2,2,1","alignment": "center", "iconLayout": "top", "title": "YouTube", "imgUrl": "https://googleusercontent.com","action": "link:https://www.youtube.com/"},
+       {"type": "default","layout": "9,2,2,1","alignment": "center", "iconLayout": "top", "title": "YouTube", "icon": "tv", "action": "link:https://www.youtube.com/"},
 
 
 
